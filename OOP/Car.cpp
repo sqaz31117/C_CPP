@@ -3,6 +3,9 @@
 
 using namespace std;
 
+// reference:
+// https://hackmd.io/@cbc1123/S1xmY2_Bi
+
 template<class T1, class T2, class T3> 
 class Car {
     public:
